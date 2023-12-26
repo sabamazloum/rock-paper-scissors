@@ -34,6 +34,8 @@
 //     console.log("you said cancel")
 // }
 
+// this is test for vs code git
+
 const choices = ["rock", "paper" , "scissors"]
 
 
